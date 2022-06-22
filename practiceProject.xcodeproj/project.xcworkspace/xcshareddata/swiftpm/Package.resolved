@@ -2,21 +2,48 @@
   "object": {
     "pins": [
       {
-        "package": "swift-algorithms",
-        "repositoryURL": "https://github.com/apple/swift-algorithms.git",
+        "package": "PureLayout",
+        "repositoryURL": "https://github.com/PureLayout/PureLayout.git",
         "state": {
           "branch": null,
-          "revision": "b14b7f4c528c942f121c8b860b9410b2bf57825e",
-          "version": "1.0.0"
+          "revision": "5561683c96dc49b023c1299bfe4f6fbeed5f8199",
+          "version": "3.1.9"
         }
       },
       {
-        "package": "swift-numerics",
-        "repositoryURL": "https://github.com/apple/swift-numerics",
+        "package": "SocketIO",
+        "repositoryURL": "https://github.com/socketio/socket.io-client-swift",
         "state": {
           "branch": null,
-          "revision": "0a5bc04095a675662cf24757cc0640aa2204253b",
-          "version": "1.0.2"
+          "revision": "af5ce97b755d964235348d96f6db5cbdcbe334a5",
+          "version": "16.0.1"
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "state": {
+          "branch": null,
+          "revision": "df8d82047f6654d8e4b655d1b1525c64e1059d21",
+          "version": "4.0.4"
+        }
+      },
+      {
+        "package": "Backendless",
+        "repositoryURL": "https://github.com/Backendless/Swift-SDK.git",
+        "state": {
+          "branch": null,
+          "revision": "0ccc1a9379e37c57a021b9e01025603edac135d2",
+          "version": "6.5.4"
+        }
+      },
+      {
+        "package": "transifex",
+        "repositoryURL": "https://github.com/transifex/transifex-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "7c1326b1a80fb37923cb4782d63293766ce8ffa7",
+          "version": "1.0.1"
         }
       }
     ]
